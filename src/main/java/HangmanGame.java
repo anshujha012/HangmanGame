@@ -136,7 +136,7 @@ public class HangmanGame {
     }
 
     public static void main(String[] args) {
-        System.out.println("Hangman Game on Saurel's Channel with Java Keywords :)");
+        System.out.println("Hangman Game with Java Keywords :)");
         HangmanGame hangmanGame = new HangmanGame();
         hangmanGame.newGame();
         hangmanGame.play();
